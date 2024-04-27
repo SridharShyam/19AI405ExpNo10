@@ -1,4 +1,9 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+### Name: SHYAM S
+### Register Number: 212223240156
+# AIM:
+To solve Implementation of Classical Planning Algorithm using python.
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
